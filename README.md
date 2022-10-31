@@ -19,4 +19,4 @@ This is Homepage of fashion design website with few element. It is my first proj
 
 ## Fashion Design Home Page IMAGE.
 
-![1.png](/1.png)
+![1.png](./1.png)
